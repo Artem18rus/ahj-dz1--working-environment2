@@ -49,6 +49,7 @@
   },
   "homepage": "https://github.com/Artem18rus/ahj-dz1--working-environment2#readme",
   "dependencies": {
+    "jest": "^29.2.2",
     "optimize-css-assets-webpack-plugin": "^6.0.1"
   }
 }
