@@ -47,5 +47,8 @@
   "bugs": {
     "url": "https://github.com/Artem18rus/ahj-dz1--working-environment2/issues"
   },
-  "homepage": "https://github.com/Artem18rus/ahj-dz1--working-environment2#readme"
+  "homepage": "https://github.com/Artem18rus/ahj-dz1--working-environment2#readme",
+  "dependencies": {
+    "optimize-css-assets-webpack-plugin": "^6.0.1"
+  }
 }
